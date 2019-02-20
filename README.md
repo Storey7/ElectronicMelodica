@@ -1,4 +1,4 @@
-# ElectronicMelodica
+# Electronic Melodica
 
 ## Goal
 
