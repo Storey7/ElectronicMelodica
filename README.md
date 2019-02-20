@@ -16,8 +16,8 @@ Design and implement a musical instrument using an arduino system. Team of 4. (U
 
 ### Final Instrument
 
-![Top](/images/Top.jpg "Top of instrument")
-![Bottom](/images/Bottom.jpg "Bottom of instrument")
+![top](/images/Top.jpg "Top of instrument")
+![bottom](/images/Bottom.jpg "Bottom of instrument")
 
 ### Circuit diagram
 ![diagram](/images/arduino-project.png "Circuit diagram of instrument")
