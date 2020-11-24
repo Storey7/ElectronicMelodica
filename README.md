@@ -7,7 +7,7 @@ Design and implement a musical instrument using an arduino system. Team of 4. (U
 ## Components
 
 * Arduino UNO
-* 8* paper clips wired as capacitive sensors
+* 8* paper clips acting as capacitive sensors
 * 1* 8ohm AC speaker
 * 1* BMP280 Digital Barmometer
 * 1* 220k resistor
